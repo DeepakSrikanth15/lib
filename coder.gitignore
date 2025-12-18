@@ -1,0 +1,11 @@
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Python cache
+__pycache__/
+
+# macOS system files
+.DS_Store
